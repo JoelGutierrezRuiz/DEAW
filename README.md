@@ -17,7 +17,7 @@ Este repositorio será utilizado para una actividad de git en la asignatura de d
 <tr>
 
 <td>Samuel</td>
-<td> <a href="https://github.com/Sciverag"></a> Enlace </td>
+<td> <a href="https://github.com/Sciverag">Enlace </a></td>
 
 </tr>
 
